@@ -1,6 +1,3 @@
 [submodule "plugin.program.sparkiptvwiz"]
 	path = plugin.program.sparkiptvwiz
 	url = https://github.com/Ryann-Devv/plugin.program.sparkiptvwiz
-[submodule "repo.plugin.program.sparkiptvwiz"]
-	path = repo.plugin.program.sparkiptvwiz
-	url = https://github.com/Ryann-Devv/plugin.program.sparkiptvwiz
